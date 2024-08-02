@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/9858b2d5-94e1-4a48-9659-d5edc8f2932b" width="150"/>
-</div>
+
 
 <!--
 **edrickfrost/edrickfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
